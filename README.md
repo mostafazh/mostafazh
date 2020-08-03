@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 [![Linkedin Badge](https://img.shields.io/badge/-mostafazh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafazh/)](https://www.linkedin.com/in/mostafazh/)
 [![Website Badge](https://img.shields.io/badge/-blog.mostafazh.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://blog.mostafazh.me)](https://blog.mostafazh.me)
 [![stackoverflow Badge](https://img.shields.io/badge/-mostafazh-orange?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/1772245/mostafazh)](https://stackoverflow.com/users/1772245/mostafazh)
