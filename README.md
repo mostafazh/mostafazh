@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I'm **Mostafa Zaher**, a software engineer passionate about building great products.
+I'm **Mostafa Zaher**, an Engineering Leader passionate about building impactful products.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-mostafazh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafazh/)](https://www.linkedin.com/in/mostafazh/)
 [![Website Badge](https://img.shields.io/badge/-me.mostafazh.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://me.mostafazh.me)](https://me.mostafazh.me)
